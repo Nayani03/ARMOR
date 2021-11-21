@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.codemybrainsout.rating:ratingdialog:1.0.8@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ratingdialog-1.0.8.aar/1a86a81df77ea315be66b17aeda0c28c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ratingdialog-1.0.8.aar/1a86a81df77ea315be66b17aeda0c28c/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ratingdialog-1.0.8.aar/1a86a81df77ea315be66b17aeda0c28c/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.codemybrainsout.rating/ratingdialog/1.0.8/8e4dbcfa921d0ec6ef79bb62821ead2579855b7c/ratingdialog-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

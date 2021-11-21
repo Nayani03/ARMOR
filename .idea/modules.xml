@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ARMOR.iml" filepath="$PROJECT_DIR$/.idea/modules/ARMOR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ARMOR.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ARMOR.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/speech/ARMOR.speech.iml" filepath="$PROJECT_DIR$/.idea/modules/speech/ARMOR.speech.iml" />
+    </modules>
+  </component>
+</project>
