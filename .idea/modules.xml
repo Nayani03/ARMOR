@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ARMOR.iml" filepath="$PROJECT_DIR$/.idea/modules/ARMOR.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ARMOR.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ARMOR.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/speech/ARMOR.speech.iml" filepath="$PROJECT_DIR$/.idea/modules/speech/ARMOR.speech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ARMOR.iml" filepath="$PROJECT_DIR$/.idea/modules/ARMOR.iml" group="ARMOR" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="ARMOR/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/speech/speech.iml" filepath="$PROJECT_DIR$/.idea/modules/speech/speech.iml" group="ARMOR/speech" />
     </modules>
   </component>
 </project>
